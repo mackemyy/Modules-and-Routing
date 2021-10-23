@@ -1,0 +1,39 @@
+body {
+    background-image: url("src/assets/images/coffee9.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: fixed;
+}
+
+h1 {
+    font-size: 110px;
+    font-family: 'Authentic Signature', sans-serif;
+    margin-top: 120px;
+    color: wheat;
+    margin-left: 80px;
+}
+
+h2 {
+    font-family: 'Montserrat-Bold';
+    color: wheat;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 325px;
+    letter-spacing: 2px;
+    
+}
+
+p {
+    color: wheat;
+    margin-top: 90px;
+    margin-left: 80px;
+    font-size: 16px;
+}
+
+#orderBtn {
+    margin-left: 80px;
+    margin-top: 20px;
+    transition: ease-in-out 0.5s;
+}

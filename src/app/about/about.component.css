@@ -1,0 +1,77 @@
+.company img {
+    width: 15%;
+    margin-top: 40px;
+    text-align: center;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.company h2 {
+    font-family: 'Montserrat-Bold';
+    font-size: 40px;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Authentic Signature';
+    font-size: 45px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+p {
+    font-family: 'Montserrat-Regular';
+    font-size: 15px;
+}
+
+.history {
+    display: flex;
+    align-items: center;
+}
+
+.history img {
+    width: 40%;
+    float: left;
+}
+
+.history p {
+    text-align: left;
+}
+
+.location {
+    display: flex;
+    align-items: left;
+}
+
+.location img {
+    margin-left: 30%;
+    width: 30px;
+}
+
+.phone {
+    display: flex;
+    align-items: left;
+}
+
+.phone img {
+    margin-left: 30%;
+    width: 30px;
+}
+
+.hours {
+    display: flex;
+    align-items: left;
+}
+
+.hours img {
+    margin-left: 30%;
+    width: 30px;
+}
+
+.parag {
+    text-align: left;
+}
+

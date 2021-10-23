@@ -1,0 +1,39 @@
+.container {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.company img {
+    width: 15%;
+    margin-top: 40px;
+    text-align: center;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.company h2 {
+    font-family: 'Montserrat-Bold';
+    font-size: 40px;
+}
+
+h1 {
+    font-family: 'Authentic Signature';
+    font-size: 45px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    letter-spacing: 2px;
+}
+
+.questions {
+    font-family: 'Montserrat-Bold';
+    font-size: 25px;
+}
+
+p {
+    font-family: 'Montserrat-Regular';
+    font-size: 15px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}

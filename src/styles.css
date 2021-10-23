@@ -1,1 +1,20 @@
-/* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: "Authentic Signature";
+    src: local("Authentic Signature"), url(src\assets\fonts\Authentic-Signature.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Montserrat-Bold";
+    src: local("Montserrat-Bold"), url(src\assets\fonts\Montserrat-Bold.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Montserrat-Regular";
+    src: local("Montserrat-Regular"), url(src\assets\fonts\Montserrat-Regular.ttf) format("truetype");
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Montserrat-Regular', 'Century Gothic', sans-serif;
+}

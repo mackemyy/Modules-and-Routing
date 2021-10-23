@@ -1,0 +1,92 @@
+h1 {
+    font-family: 'Montserrat-Bold';
+    font-size: 50px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: cadetblue;
+}
+
+mat-expansion-panel-header {
+    background:white !important;
+    height: 80px;
+}
+
+mat-expansion-panel {
+    background:white !important;
+}
+
+mat-panel-title {
+    font-family: 'Authentic Signature';
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.iced {
+    width: 60%;
+    text-align: center;
+    margin-left: 18%;
+    margin-top: 80px;
+}
+
+.iced img {
+    width: 60px;
+    float: left;
+}
+
+.hot {
+    width: 60%;
+    text-align: center;
+    margin-left: 18%;
+    margin-top: 30px;
+}
+
+.hot img {
+    width: 60px;
+    float: left;
+}
+
+.tea {
+    width: 60%;
+    text-align: center;
+    margin-left: 18%;
+    margin-top: 30px;
+}
+
+.tea img {
+    width: 60px;
+    float: left;
+}
+
+.dessert {
+    width: 60%;
+    text-align: center;
+    margin-left: 18%;
+    margin-top: 30px;
+}
+
+.dessert img {
+    width: 60px;
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+
